@@ -2,8 +2,8 @@
   "name": "min-dom",
   "version": "3.1.1",
   "description": "A minimal dom utility toolbelt",
-  "main": "index.js",
-  "types": "dist/index.d.ts",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
     "all": "run-s lint test distro",
     "bundle": "rollup -c",
